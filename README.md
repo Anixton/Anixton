@@ -1,6 +1,4 @@
-<h1>Hi, I'm Hakan Gezginci</h1> <br>
-🌱 I’m currently learning Spring Boot , React.js <br> 
-
+<h1>Hi, I'm Hakan Gezginci</h1> <br
 
 
 ## 🌐 Socials:
